@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C461%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C467%20hrs%2014%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,18 +13,18 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               11 hrs 22 mins      ██████████████░░░░░░░░░░░   56.01 % 
-Vue.js                   8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
-Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TypeScript               12 hrs 20 mins      ███████████████░░░░░░░░░░   61.01 % 
+Vue.js                   6 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.21 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/12/2024 23:19:14 UTC
+ Last Updated on 09/12/2024 23:20:52 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **itsme@arsyaadi.software**
