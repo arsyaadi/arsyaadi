@@ -29,7 +29,7 @@ Neovim                   50 mins             █░░░░░░░░░░�
  Last Updated on 23/06/2025 23:18:52 UTC
 <!--END_SECTION:waka-->
 
-- 📫 How to reach me **itsme@arsyaadi.software**
+<!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
 
 
 <h3 align="left">Connect with me:</h3>
