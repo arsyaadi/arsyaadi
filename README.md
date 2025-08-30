@@ -5,19 +5,17 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C400%20hrs%2045%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue.js                   11 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   38.55 % 
+Vue.js                   11 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   38.55 % 
 PHP                      6 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-TypeScript               5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+TypeScript               5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
 SQL                      3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Bash                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Bash                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
 VS Code                  26 hrs 10 mins      ██████████████████████░░░   88.15 % 
@@ -26,7 +24,7 @@ Neovim                   10 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/08/2025 23:19:39 UTC
+ Last Updated on 30/08/2025 23:18:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
