@@ -5,27 +5,10 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C469%20hrs%2055%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      12 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   40.17 % 
-Vue.js                   12 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   39.06 % 
-SQL                      2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-TypeScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Other                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-
-🔥 Editors: 
-VS Code                  29 hrs 4 mins       ███████████████████████░░   93.14 % 
-DataGrip                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C475%20hrs%2036%20mins-blue)
 
 
- Last Updated on 14/09/2025 23:18:01 UTC
+ Last Updated on 15/09/2025 23:18:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
