@@ -5,6 +5,8 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C720%20hrs%2041%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -24,7 +26,7 @@ Neovim                   1 hr 16 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/11/2025 23:20:23 UTC
+ Last Updated on 16/11/2025 23:20:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
