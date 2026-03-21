@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C157%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C160%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,21 +13,21 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
-SQL                      3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-PHP                      3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Go                       1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+TypeScript               4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+SQL                      3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+PHP                      3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Go                       1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 31 mins       ██████████████░░░░░░░░░░░   57.32 % 
-DataGrip                 3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-OpenCode                 2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+VS Code                  9 hrs 31 mins       ██████████████░░░░░░░░░░░   57.45 % 
+DataGrip                 3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+OpenCode                 2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
 Neovim                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 ```
 
 
- Last Updated on 20/03/2026 23:33:24 UTC
+ Last Updated on 21/03/2026 23:29:42 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
