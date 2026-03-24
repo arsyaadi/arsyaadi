@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C160%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C161%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,21 +13,21 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 24 mins       ██████████████░░░░░░░░░░░   55.00 % 
-PHP                      1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-SQL                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+TypeScript               6 hrs 45 mins       ██████████████████░░░░░░░   72.16 % 
+PHP                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 55 mins       █████████████░░░░░░░░░░░░   50.04 % 
-OpenCode                 3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.07 % 
-DataGrip                 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Neovim                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+VS Code                  4 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.09 % 
+OpenCode                 4 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.66 % 
+Neovim                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+DataGrip                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
- Last Updated on 23/03/2026 23:36:54 UTC
+ Last Updated on 24/03/2026 23:36:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
