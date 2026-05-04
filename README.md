@@ -13,21 +13,21 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-SQL                      5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-Vue                      4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+PHP                      7 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
+Vue                      4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+SQL                      3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Other                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 2 mins       ████████████████░░░░░░░░░   62.67 % 
-DataGrip                 5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-OpenCode                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+VS Code                  12 hrs 32 mins      ████████████████░░░░░░░░░   65.05 % 
+DataGrip                 3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+OpenCode                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Neovim                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 ```
 
 
- Last Updated on 03/05/2026 23:52:44 UTC
+ Last Updated on 04/05/2026 23:57:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
