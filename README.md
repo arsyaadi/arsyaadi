@@ -5,10 +5,8 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C316%20hrs%205%20mins-blue?style=flat)
 
-
- Last Updated on 14/05/2026 00:04:35 UTC
+ Last Updated on 14/05/2026 23:59:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
