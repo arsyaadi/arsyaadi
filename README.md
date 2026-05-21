@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C360%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C366%20hrs%2056%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,22 +13,22 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs               ████████░░░░░░░░░░░░░░░░░   31.48 % 
-SQL                      4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Vue                      3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Markdown                 3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+PHP                      9 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.22 % 
+Vue                      4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Markdown                 3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+SQL                      2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Go                       1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.45 % 
-OpenCode                 9 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
-DataGrip                 3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Neovim                   1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Kiro                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+OpenCode                 9 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.84 % 
+VS Code                  9 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.43 % 
+Kiro                     3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Neovim                   2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+DataGrip                 2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 ```
 
 
- Last Updated on 20/05/2026 00:10:18 UTC
+ Last Updated on 21/05/2026 00:09:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
