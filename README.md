@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C373%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C375%20hrs%2045%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,22 +13,22 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      11 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
-Markdown                 4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Vue                      4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Go                       3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-SQL                      3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+PHP                      9 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.84 % 
+Go                       3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Markdown                 3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+SQL                      3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Vue                      2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 🔥 Editors: 
-OpenCode                 9 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.73 % 
-VS Code                  8 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-Kiro                     6 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-DataGrip                 3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Neovim                   2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Kiro                     7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+VS Code                  7 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+OpenCode                 6 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+DataGrip                 3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Neovim                   2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 ```
 
 
- Last Updated on 22/05/2026 00:06:59 UTC
+ Last Updated on 23/05/2026 00:10:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
