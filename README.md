@@ -5,30 +5,10 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C406%20hrs%2046%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      9 hrs 56 mins       ██████████████░░░░░░░░░░░   54.14 % 
-SQL                      2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Go                       1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Java                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
-Zed                      5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-DataGrip                 2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Neovim                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Opencode Acp             1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C410%20hrs%2019%20mins-blue?style=flat)
 
 
- Last Updated on 05/06/2026 00:13:06 UTC
+ Last Updated on 06/06/2026 00:10:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
