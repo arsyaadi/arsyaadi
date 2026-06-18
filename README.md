@@ -13,21 +13,21 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs 15 mins       ███████████████░░░░░░░░░░   59.59 % 
-Vue                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-shell script             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+PHP                      8 hrs 37 mins       ███████████████░░░░░░░░░░   61.32 % 
+Vue                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Go                       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-Zed                      10 hrs 1 min        ██████████████████░░░░░░░   72.23 % 
-Neovim                   1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-OpenCode                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Opencode Acp             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Zed                      10 hrs 47 mins      ███████████████████░░░░░░   76.71 % 
+Neovim                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+OpenCode                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Opencode Acp             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 
 
- Last Updated on 17/06/2026 00:20:24 UTC
+ Last Updated on 18/06/2026 00:17:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
