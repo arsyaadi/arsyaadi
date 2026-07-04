@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C466%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C467%20hrs%2044%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,22 +13,22 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-Markdown                 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-TypeScript               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Vue                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+PHP                      3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Markdown                 2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Bash                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+shell script             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-Zed                      5 hrs 10 mins       █████████████░░░░░░░░░░░░   52.42 % 
-Antigravity Desktop      2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-OpenCode                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Neovim                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Zed                      5 hrs 46 mins       ████████████░░░░░░░░░░░░░   46.18 % 
+Antigravity Desktop      3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+OpenCode                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Neovim                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Claude Code              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 
 
- Last Updated on 03/07/2026 00:10:08 UTC
+ Last Updated on 04/07/2026 00:08:28 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
