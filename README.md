@@ -5,29 +5,27 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C510%20hrs%2044%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.16 % 
-Vue                      2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-JavaScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Go                       1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+PHP                      5 hrs 11 mins       ███████████░░░░░░░░░░░░░░   42.30 % 
+Vue                      2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+JavaScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Go                       1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.68 % 
-Zed                      5 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.94 % 
-Neovim                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Antigravity Desktop      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Claude Code              5 hrs 51 mins       ████████████░░░░░░░░░░░░░   47.71 % 
+Zed                      5 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.89 % 
+Neovim                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Antigravity Desktop      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 
- Last Updated on 23/07/2026 00:02:40 UTC
+ Last Updated on 24/07/2026 00:03:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
