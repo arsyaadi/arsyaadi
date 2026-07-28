@@ -5,7 +5,9 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C522%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C473%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-203%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,20 +15,43 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      5 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   40.83 % 
-Vue                      2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-JavaScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Go                       1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+PHP                      4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
+Vue                      2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+JavaScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Go                       58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 40 mins       █████████████░░░░░░░░░░░░   52.78 % 
-Zed                      4 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
-Neovim                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Claude Code              6 hrs 24 mins       ██████████████░░░░░░░░░░░   57.43 % 
+Zed                      3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
+Neovim                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 41 mins (77.98%)
+
+✍️ 2,294 lines written by AI, 455 lines written by hand (83.45% AI-written)
+
+🔤 37,305,422 Input Tokens, 193,989 Output Tokens
+
+💵 $114.20 Estimated AI Cost This Week
+
+🧠 34 AI Sessions, 208 AI Prompts
+
+Sonnet                   2,610 lines         █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 83.45% of written lines came from AI
+📚 Verbose Prompter — average 2,187 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 18.82% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 00:02:22 UTC
+ Last Updated on 28/07/2026 00:04:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
