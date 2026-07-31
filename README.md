@@ -5,54 +5,57 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C480%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2012%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-Vue                      2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-JSON                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Markdown                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+PHP                      3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+Vue                      2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+JSON                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+JavaScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 35 mins       █████████████░░░░░░░░░░░░   53.30 % 
-Zed                      3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
-Neovim                   1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Claude Code              6 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.97 % 
+Zed                      4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.93 % 
+Neovim                   2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 44 mins (78.84%)
+⏱ AI Coding Time: 9 hrs 46 mins (69.96%)
 
-✍️ 4,557 lines written by AI, 640 lines written by hand (87.69% AI-written)
+✍️ 4,387 lines written by AI, 667 lines written by hand (86.8% AI-written)
 
-🔤 34,705,178 Input Tokens, 217,888 Output Tokens
+🔤 28,713,687 Input Tokens, 196,411 Output Tokens
 
-💵 $110.10 Estimated AI Cost This Week
+💵 $90.10 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 254 AI Prompts
+🧠 28 AI Sessions, 228 AI Prompts
 
-Sonnet                   3,980 lines         █████████████████████░░░░   82.10 % 
-Opus                     846 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Gemini                   17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Antigravity-Desktop      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   3,592 lines         ████████████████████░░░░░   80.54 % 
+Opus                     846 lines           █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Gemini                   17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Antigravity-Desktop      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.69% of written lines came from AI
-📚 Verbose Prompter — average 8,308 characters per prompt
+🤖 AI-Driven — 86.8% of written lines came from AI
+📚 Verbose Prompter — average 9,297 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 13.27% of changed lines were hand-edited
+🚀 High AI Trust — 16.32% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 00:02:40 UTC
+ Last Updated on 31/07/2026 00:04:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
