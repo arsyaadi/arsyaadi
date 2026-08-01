@@ -15,47 +15,47 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-Vue                      3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-JSON                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+PHP                      3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+Vue                      3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+JSON                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+JavaScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 35 mins       ████████████░░░░░░░░░░░░░   48.98 % 
-Zed                      4 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.50 % 
-Neovim                   1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Claude Code              6 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.56 % 
+Zed                      5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.08 % 
+Neovim                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Antigravity Desktop      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 17 mins (69.14%)
+⏱ AI Coding Time: 10 hrs 15 mins (70.36%)
 
-✍️ 4,404 lines written by AI, 236 lines written by hand (94.91% AI-written)
+✍️ 4,437 lines written by AI, 236 lines written by hand (94.95% AI-written)
 
-🔤 32,472,412 Input Tokens, 216,466 Output Tokens
+🔤 33,100,525 Input Tokens, 219,417 Output Tokens
 
-💵 $101.39 Estimated AI Cost This Week
+💵 $103.31 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 237 AI Prompts
+🧠 31 AI Sessions, 268 AI Prompts
 
-Sonnet                   3,654 lines         ████████████████████░░░░░   80.80 % 
-Opus                     846 lines           █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Gemini                   17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Sonnet                   3,654 lines         ████████████████████░░░░░   80.22 % 
+Opus                     846 lines           █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Gemini                   50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 Antigravity-Desktop      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.91% of written lines came from AI
-📚 Verbose Prompter — average 8,811 characters per prompt
+🤖 AI-Driven — 94.95% of written lines came from AI
+📚 Verbose Prompter — average 7,818 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 7.58% of changed lines were hand-edited
+🚀 High AI Trust — 7.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 00:03:40 UTC
+ Last Updated on 01/08/2026 23:59:16 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
