@@ -15,47 +15,22 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
-Vue                      3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-JSON                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+PHP                      5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Vue                      3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Markdown                 3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+TypeScript               3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+JSON                     2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.38 % 
-Zed                      5 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.67 % 
-Antigravity Desktop      2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Neovim                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Antigravity              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 21 mins (73.05%)
-
-✍️ 4,456 lines written by AI, 317 lines written by hand (93.36% AI-written)
-
-🔤 33,320,984 Input Tokens, 220,035 Output Tokens
-
-💵 $103.98 Estimated AI Cost This Week
-
-🧠 33 AI Sessions, 376 AI Prompts
-
-Sonnet                   3,656 lines         ████████████████████░░░░░   79.62 % 
-Opus                     846 lines           █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Gemini                   85 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Antigravity-Desktop      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.36% of written lines came from AI
-📚 Verbose Prompter — average 5,599 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 9.03% of changed lines were hand-edited
+Antigravity Desktop      7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
+Claude Code              7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Zed                      6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+Neovim                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
- Last Updated on 03/08/2026 08:35:28 UTC
+ Last Updated on 05/08/2026 00:06:36 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
