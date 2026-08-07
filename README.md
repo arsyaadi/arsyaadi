@@ -5,32 +5,8 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C499%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs%2056%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      6 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Markdown                 4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-TypeScript               3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-JSON                     2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Vue                      2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-
-🔥 Editors: 
-Antigravity Desktop      8 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Claude Code              7 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-Zed                      6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Neovim                   2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-```
-
-
- Last Updated on 06/08/2026 00:02:07 UTC
+ Last Updated on 07/08/2026 01:41:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
