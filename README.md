@@ -5,9 +5,9 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C557%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C559%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-278%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -15,21 +15,21 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      7 hrs 27 mins       ███████████████░░░░░░░░░░   60.44 % 
-Other                    2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-JavaScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Vue                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+PHP                      6 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.17 % 
+Other                    2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+TypeScript               1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+JavaScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🔥 Editors: 
-Antigravity Desktop      5 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.49 % 
-Claude Code              5 hrs               ██████████░░░░░░░░░░░░░░░   40.59 % 
-Zed                      1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Neovim                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Antigravity Desktop      8 hrs 31 mins       ██████████████░░░░░░░░░░░   55.75 % 
+Claude Code              4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+Zed                      2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Neovim                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
- Last Updated on 27/08/2026 04:25:13 UTC
+ Last Updated on 28/08/2026 06:49:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
