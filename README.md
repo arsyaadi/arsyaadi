@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C669%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C670%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-393%20hrs%2017%20mins-blue?style=flat)
 
@@ -15,22 +15,22 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.24 % 
-Other                    4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Markdown                 4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-TypeScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Vue                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+PHP                      8 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.05 % 
+Markdown                 3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Other                    3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+TypeScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Vue                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 33 mins      ██████████████░░░░░░░░░░░   55.15 % 
-Zed                      7 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.50 % 
-Codex Vscode             2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Neovim                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Claude Code              12 hrs 25 mins      █████████████░░░░░░░░░░░░   53.12 % 
+Zed                      7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.93 % 
+Codex Vscode             2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Neovim                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
- Last Updated on 04/10/2026 02:27:37 UTC
+ Last Updated on 05/10/2026 01:44:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
