@@ -15,22 +15,22 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      13 hrs              █████████░░░░░░░░░░░░░░░░   34.66 % 
-Other                    6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-TypeScript               5 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Markdown                 4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-JSON                     3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+PHP                      12 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   35.82 % 
+Other                    6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+TypeScript               4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Markdown                 3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+JSON                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   39.34 % 
-Antigravity Desktop      9 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-Zed                      7 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Bot                      5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Antigravity              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Claude Code              13 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   39.14 % 
+Antigravity Desktop      7 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Zed                      7 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Bot                      6 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Neovim                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 
- Last Updated on 16/10/2026 01:03:34 UTC
+ Last Updated on 17/10/2026 01:10:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- - 📫 How to reach me **itsme@arsyaadi.software** -->
